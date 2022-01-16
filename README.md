@@ -99,8 +99,6 @@ else:
 ![INPUT](/images/img2.png)
 ![INPUT](/images/img3.png)
 ## Output:
-![OUTPUT](/images/img4.png)
-![OUTPUT](/images/img5.png)
-![OUTPUT](/images/img6.png)
+
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
