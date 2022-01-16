@@ -95,12 +95,12 @@ else:
     print('Element found at index: ',result)
 ```
 ## Sample Input:
-![GitHub Logo](/images/img1.png)
-![GitHub Logo](/images/img2.png)
-![GitHub Logo](/images/img3.png)
+![INPUT](/images/img1.png)
+![INPUT](/images/img2.png)
+![INPUT](/images/img3.png)
 ## Output:
-![GitHub Logo](/images/img4.png)
-![GitHub Logo](/images/img5.png)
-![GitHub Logo](/images/img6.png)
+![OUTPUT](/images/img4.png)
+![OUTPUT](/images/img5.png)
+![OUTPUT](/images/img6.png)
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
