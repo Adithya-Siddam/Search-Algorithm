@@ -95,9 +95,9 @@ else:
     print('Element found at index: ',result)
 ```
 ## Sample Input:
-![INPUT](/images/img1.png)
-![INPUT](/images/img2.png)
-![INPUT](/images/img3.png)
+![INPUT](./images/img1.png)
+![INPUT](./images/img2.png)
+![INPUT](./images/img3.png)
 ## Output:
 
 ## Result
